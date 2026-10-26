@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\general files\\university\\uni game jam 2026\\uni_game_jam_2026\\slendermanchess\\source\\slendermanchess\\slendermanchess.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\general files\\university\\uni game jam 2026\\uni_game_jam_2026\\slendermanchess\\intermediate\\build\\win64\\x64\\slendermanchesseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\general files\\university\\uni game jam 2026\\uni_game_jam_2026\\slendermanchess\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\slendermanchess\\definitions.slendermanchess.h",
+            "c:\\general files\\university\\uni game jam 2026\\uni_game_jam_2026\\slendermanchess\\source\\slendermanchess\\slendermanchess.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

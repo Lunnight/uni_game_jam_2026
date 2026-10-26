@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SlendermanChess",
+			"Path": "..\\Source\\SlendermanChess.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SlendermanChessEditor",
+			"Path": "..\\Source\\SlendermanChessEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
