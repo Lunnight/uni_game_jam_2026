@@ -1,2 +1,2 @@
-*.uasset filter=lfs diff=lfs merge=binary -text lockable
+*.uasset filter=lfs diff=lfs merge=binary -text
 art-source/** filter=lfs diff=lfs merge=binary -text
